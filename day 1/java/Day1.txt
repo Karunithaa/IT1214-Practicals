@@ -1,0 +1,183 @@
+Microsoft Windows [Version 10.0.22631.4974]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\2022ict05>cd C:\Users\2022ict05\Desktop\IT1214\DAY01
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 96E8-8CF4
+
+ Directory of C:\Users\2022ict05\Desktop\IT1214\DAY01
+
+14/03/2025  11:21    <DIR>          .
+14/03/2025  11:13    <DIR>          ..
+14/03/2025  11:19               360 first.java
+14/03/2025  11:21               526 MyFirstClass.class
+               2 File(s)            886 bytes
+               2 Dir(s)  253,851,217,920 bytes free
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>
+C:\Users\2022ict05\Desktop\IT1214\DAY01>java MyFirstClass
+HiThis is IT1214 Practical Session 1This prints in a New Line
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>javac first.java
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>java MyFirstClass
+HiThis is IT1214 Practical Session 1This prints in a New Line
+TEST LINE
+C:\Users\2022ict05\Desktop\IT1214\DAY01>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 96E8-8CF4
+
+ Directory of C:\Users\2022ict05\Desktop\IT1214\DAY01
+
+14/03/2025  11:48    <DIR>          .
+14/03/2025  11:13    <DIR>          ..
+14/03/2025  11:35               394 first.java
+14/03/2025  11:35               553 MyFirstClass.class
+14/03/2025  11:52               311 P2.java
+               3 File(s)          1,258 bytes
+               2 Dir(s)  253,821,235,200 bytes free
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>javac P2.java
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>java Argument
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+        at Argument.main(P2.java:8)
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 96E8-8CF4
+
+ Directory of C:\Users\2022ict05\Desktop\IT1214\DAY01
+
+14/03/2025  11:52    <DIR>          .
+14/03/2025  11:13    <DIR>          ..
+14/03/2025  11:52               932 Argument.class
+14/03/2025  11:35               394 first.java
+14/03/2025  11:35               553 MyFirstClass.class
+14/03/2025  11:52               311 P2.java
+               4 File(s)          2,190 bytes
+               2 Dir(s)  253,783,564,288 bytes free
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>java Argument
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+        at Argument.main(P2.java:8)
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>java Argument Hi!! Hello!
+The first Argument is Hi!!
+The second Argument is Hi!!
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>javac P2.java
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>java Argument Hi!! Hello!
+The first Argument is Hi!!
+The second Argument is Hi!!
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>javac P2.java
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>java Argument Hi!! Hello!
+The first Argument is Hi!!
+The second Argument is Hello!
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>java Argument Hi!! Hello! Good! Morning!
+The first Argument is Hi!!
+The second Argument is Hello!
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>javac P2.java
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>java Argument Hi!! Hello! Good! Morning!
+The first Argument is Hi!!
+The second Argument is Hello!
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>javac P2.java
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>java Argument Hi!! Hello! Good! Morning!
+The first Argument is Hi!!
+The second Argument is Hello!
+The second Argument is Morning!
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>javac P3.java
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>java ArgumentTwo How Are You
+How You Are
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>javac P4.java
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 96E8-8CF4
+
+ Directory of C:\Users\2022ict05\Desktop\IT1214\DAY01
+
+14/03/2025  12:25    <DIR>          .
+14/03/2025  11:13    <DIR>          ..
+14/03/2025  12:25               323 App.class
+14/03/2025  12:06               950 Argument.class
+14/03/2025  12:07               901 ArgumentTwo.class
+14/03/2025  11:35               394 first.java
+14/03/2025  11:35               553 MyFirstClass.class
+14/03/2025  12:25               946 One.class
+14/03/2025  12:06               369 P2.java
+14/03/2025  12:10               306 p3.java
+14/03/2025  12:24               547 P4.java
+14/03/2025  12:25               936 Two.class
+              10 File(s)          6,225 bytes
+               2 Dir(s)  253,751,107,584 bytes free
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>java App
+Error: Main method not found in class App, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>javac P4.java
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 96E8-8CF4
+
+ Directory of C:\Users\2022ict05\Desktop\IT1214\DAY01
+
+14/03/2025  12:25    <DIR>          .
+14/03/2025  11:13    <DIR>          ..
+14/03/2025  12:27               348 App.class
+14/03/2025  12:06               950 Argument.class
+14/03/2025  12:07               901 ArgumentTwo.class
+14/03/2025  11:35               394 first.java
+14/03/2025  11:35               553 MyFirstClass.class
+14/03/2025  12:27               946 One.class
+14/03/2025  12:06               369 P2.java
+14/03/2025  12:10               306 p3.java
+14/03/2025  12:26               560 P4.java
+14/03/2025  12:27               936 Two.class
+              10 File(s)          6,263 bytes
+               2 Dir(s)  253,750,992,896 bytes free
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>
+C:\Users\2022ict05\Desktop\IT1214\DAY01>java App
+From class One a = 10
+From class One b = 0
+From class Two a = 0
+From class Two c = 0
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>javac P4.java
+P4.java:28: error: cannot find symbol
+                t1.b=6;
+                  ^
+  symbol:   variable b
+  location: variable t1 of type Two
+1 error
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>javac P4.java
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>java app
+Error: Could not find or load main class app
+Caused by: java.lang.NoClassDefFoundError: App (wrong name: app)
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>java App
+From class One a = 10
+From class One b = 20
+From class Two a = 5
+From class Two c = 6
+
+C:\Users\2022ict05\Desktop\IT1214\DAY01>
