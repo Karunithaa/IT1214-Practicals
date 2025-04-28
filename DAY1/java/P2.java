@@ -7,7 +7,7 @@ class Argument{ //class name should start with Capital Letter
 	public static void main(String[] args){
 		System.out.println("The first Argument is "+args[0]);
 		System.out.println("The second Argument is "+args[1]);
-		System.out.println("The second Argument is "+args[3]);
+		System.out.println("The third Argument is "+args[3]);
 		
 	}
 }
