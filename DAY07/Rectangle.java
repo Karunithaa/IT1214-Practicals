@@ -42,9 +42,3 @@ class Main{
 	}
 }
 
-/*Expected Output
-***
-***
-***
-***
-    */
